@@ -1,0 +1,8 @@
+{
+  "name": "VIVE CSC DIMA",
+  "description": "Professional community-driven website prototype for CS Constantine supporters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
